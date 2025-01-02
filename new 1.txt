@@ -1,0 +1,15 @@
+git commands to push to remote repo
+
+git init 
+git add filename -to add untracked to tracked
+git commit-m 
+git remote add origin (repo path )
+git push -u origin master
+
+commond to clone
+
+git clone url
+
+git status 
+
+http://vpaste.net/alr56
